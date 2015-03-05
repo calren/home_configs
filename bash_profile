@@ -23,6 +23,7 @@ fi
 source ~/.git-prompt.sh
 
 # coloring for command prompt
+# time ~ user ~ current directory ~ git branch
 PS1="\[\e[1;31m\]\t\[$RED\]-\[$BLUE\]\u\[\e[1;34m\]\[\e[1;34m\]\w\[\033[m\]\[\e[1;35m\]\$(__git_ps1)\[\e[0;30m\]\$ "
 
 # always start terminal in this directory
