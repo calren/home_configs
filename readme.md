@@ -7,3 +7,5 @@ Features:
 - show current git branch
 - autocomplete for git branch names 
 - some android development settings
+
+![](https://github.com/calren/home_configs/blob/master/example.png)
