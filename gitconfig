@@ -1,0 +1,8 @@
+[alias]
+	co = checkout
+	st = status
+[push]
+	default = simple
+[user]
+	name = Raymond Carino
+	email = sloooooowduck@gmail.com
