@@ -9,3 +9,7 @@ Features:
 - some android development settings
 
 ![](https://github.com/calren/home_configs/blob/master/example.png)
+
+
+For error: __git_ps1: command not found
+https://stackoverflow.com/questions/12870928/mac-bash-git-ps1-command-not-found 
