@@ -11,8 +11,8 @@ Features:
 ![](https://github.com/calren/home_configs/blob/master/example.png)
 
 
-For error: __git_ps1: command not found  
-Run: curl -o ~/.git-prompt.sh \
-    https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh  
+For error: `__git_ps1: command not found`  
+Run: `curl -o ~/.git-prompt.sh \
+    https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh`
     
 https://stackoverflow.com/questions/12870928/mac-bash-git-ps1-command-not-found 
